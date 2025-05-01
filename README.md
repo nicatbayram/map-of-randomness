@@ -132,3 +132,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - [Wikipedia](https://www.wikipedia.org/) for providing historical event data
 - [Folium](https://python-visualization.github.io/folium/) for the mapping library
 - [GeoPy](https://geopy.readthedocs.io/) for geocoding functionality
+
+## ScreenShots
+![111](https://github.com/user-attachments/assets/66390ebc-ca7a-4fe0-9df3-978ba4ba3552)
+
+
